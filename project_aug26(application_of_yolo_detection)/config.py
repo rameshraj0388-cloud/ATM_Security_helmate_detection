@@ -1,2 +1,0 @@
-MODEL_PATH = "models/best.pt"
-DETECTION_THRESHOLD = 0.5

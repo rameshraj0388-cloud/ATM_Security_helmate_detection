@@ -1,6 +1,0 @@
-streamlit --- UI --- photo, video, camera, --- read (fram/img)
-
-frame/img -- detection_service -- helmet detection -- yolo custom trained model -- detection result
-
-
-detection result-- helmet or no helmet -- if helmet -- play audio

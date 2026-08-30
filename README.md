@@ -11,7 +11,6 @@ secure_atm/
 │   └── best.pt                  # YOLOv8 custom-trained model weights
 │
 ├── src/
-│   ├── app.py                   # Main Streamlit dashboard application
 │   ├── detection_service.py     # Core YOLO object detection logic loop
 │   ├── audio_service.py         # Asynchronous beep alert audio handler
 │   └── utils.py                 # Core utility helper functions
@@ -19,6 +18,7 @@ secure_atm/
 ├── assets/
 │   └── beep.wav                 # Audio file for security warning alerts
 │
+├── app.py                       # Main Streamlit dashboard application
 ├── config.py                    # Global model parameters & threshold settings
 ├── requirements.txt             # Text log file containing external packages
 ├── .gitignore                   # Specific folders to ignore in version control

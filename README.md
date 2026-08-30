@@ -135,6 +135,9 @@ A special thanks to our instructor **Gangan Puri** for his continuous guidance, 
 - **kartik kushawaha** — Primary System Developer
 - **Gangan Puri** — Project Instructor & Advisor
 
+[![Open Repository](https://shields.io)](https://github.com)
+
+
 ---
 
 ## 📝 License

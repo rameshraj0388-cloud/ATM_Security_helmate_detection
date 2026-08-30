@@ -122,11 +122,13 @@ streamlit run src/app.py
 
 ---
 
-## 🙏 Acknowledgements
+## 🙏 Special Recognition & Thanks
 
-A special thanks to our instructor **Gangan Puri** for his continuous guidance, support, and mentorship throughout this project. We are also incredibly grateful to him for providing the specialized helmet detection dataset used to train our core YOLOv8 model. 
+We express our deepest gratitude to our instructor, Gangan Puri, for his continuous guidance, invaluable mentorship, and unwavering support throughout the development of this project.
 
-*"Thank you for making Computer Vision approachable and practical for us."*
+We are especially grateful for his generosity in providing the specialized helmet detection dataset used to train our core YOLOv8 model. His practical approach to teaching has truly bridged the gap between theory and real-world application.
+
+*"Thank you for making Computer Vision approachable, engaging, and practical for us."*
 
 ---
 

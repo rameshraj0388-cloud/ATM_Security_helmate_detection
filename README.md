@@ -70,8 +70,8 @@ secure_atm/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/sujankim/secure_atm.git
-cd secure_atm
+git clone https://github.com/0977kartik/Secure_ATM.git
+cd Secure_ATM
 ```
 
 ### 2. Create a Virtual Environment
@@ -88,11 +88,11 @@ pip install -r requirements.txt
 
 ### 4. Add Your Trained Model weights
 Ensure your custom-trained weights file is placed inside the dedicated subfolder:
-`secure_atm/models/best.pt`
+`Secure_ATM/models/best.pt`
 
 ### 5. Launch the Dashboard app
 ```bash
-streamlit run src/app.py
+streamlit run app.py
 ```
 
 ---

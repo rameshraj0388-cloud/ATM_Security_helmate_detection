@@ -132,10 +132,8 @@ A special thanks to our instructor **Gangan Puri** for his continuous guidance, 
 
 ## 👥 Project Team
 
-- **kartik kushawaha** — Primary System Developer
-- **Gangan Puri** — Project Instructor & Advisor
-
-[![**Gangan Puri**](https://shields.io)](https://www.linkedin.com/in/puri-gagan)
+- [![**Kartik kushwaha**](https://shields.io)](https://www.linkedin.com/in/puri-gagan) — Primary System Developer
+- [![**Gangan Puri**](https://shields.io)](https://www.linkedin.com/in/puri-gagan) — Project Instructor & Advisor
 
 
 ---
